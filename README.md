@@ -1,6 +1,6 @@
 # FINAL PROJECT - BANGKIT | BDG2-A
 
-# DATASET REPOSITORY 2
+# DATASET REPOSITORY 1
 ### LINK SOURCE
 #### Covid Chestxray Dataset
     https://github.com/ieee8023/covid-chestxray-dataset
