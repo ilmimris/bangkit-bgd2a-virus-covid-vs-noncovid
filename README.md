@@ -1,5 +1,10 @@
-# ABOUT PROJECTS
-This project is part of the final project from BANGKIT ACADEMY 2020 lead by Google, Gojek, Tokopedia, and Traveloka | BDG2-A
+# ABOUT REPOSITORY
+This repo is part of web/apps for Final Projects BANGKIT ACADEMY 2020 lead by Google, Gojek, Tokopedia, and Traveloka | BDG2-A 
+
+
+For more information that can find in the GitHub link:
+https://github.com/ilmimris/bangkit-bgd2a-webapp
+
 
 # OBJECTIVES
 ### PROBLEM FRAMING
