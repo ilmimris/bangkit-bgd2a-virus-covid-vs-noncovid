@@ -19,7 +19,9 @@ https://github.com/ilmimris/bangkit-bgd2a-webapp
     * Image recognition using Transfer Learning with model sequential with using Covid Chestxray Dataset & Chest X-Ray From Kaggle 
     * Image recognition (alternative model) using Transfer Learning with model sequential with using Dataset Repository Mosmed COVID-19 CT Scans from Kaggle & COVID-CT from GitHub
     
-# DATASET REPOSITORY 1
+# ABOUT DATASET
+
+## DATASET REPOSITORY 1
 ### LINK SOURCE
 #### Covid Chestxray Dataset
     https://github.com/ieee8023/covid-chestxray-dataset
@@ -77,7 +79,7 @@ Current stats of PA, AP, and AP Supine views. Labels 0=No or 1=Yes.
 
 ###### FOR INFORMATION ABOUT DATASET CONTINUE IN LINK SOURCE DATASET REPOSITORY 1
                                                           
-# DATASET REPOSITORY 2
+## DATASET REPOSITORY 2
 
 ### LINK SOURCE
 #### Chest X-Ray From Kaggle 
@@ -115,7 +117,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
                                                               Version 2
                                                              
                                                       
-# DATASET REPOSITORY 3
+## DATASET REPOSITORY 3
 
 ### LINK SOURCE
 #### Mosmed COVID-19 CT Scans from Kaggle 
@@ -155,7 +157,7 @@ If you use this dataset in your research, please credit the authors
                                   Date created                2020-05-25
                                   Current version             Version 5                                                          
                                                              
-# DATASET REPOSITORY 4
+## DATASET REPOSITORY 4
 
 ### LINK SOURCE
 #### COVID-CT from GitHub
