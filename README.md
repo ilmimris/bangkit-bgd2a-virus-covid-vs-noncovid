@@ -1,5 +1,19 @@
-# FINAL PROJECT - BANGKIT | BDG2-A
+# ABOUT PROJECTS
+This project is part of the final project from BANGKIT ACADEMY 2020 lead by Google, Gojek, Tokopedia, and Traveloka | BDG2-A
 
+# OBJECTIVES
+### PROBLEM FRAMING
+    How to predict images from CT-Scan and X-Ray Chest infected Coronavirus or not?
+### IDEAL OUTCOME
+    * A success metric is that images can predict what CT-Scan or X-Ray Chest infected Coronavirus or not.
+    * Success means the numbers of predicting upper 94% accuracy from that images. 
+    * Failure means the result of predicting no better than heuristics.
+### HEURISTIC
+    * Consider collected images from the dataset that categories Covid19 or not in the past. Assume that images will labialize that Covid19 image or not.       
+### FORMULATION
+    * Image recognition using Transfer Learning with model sequential with using Covid Chestxray Dataset & Chest X-Ray From Kaggle 
+    * Image recognition (alternative model) using Transfer Learning with model sequential with using Dataset Repository Mosmed COVID-19 CT Scans from Kaggle & COVID-CT from GitHub
+    
 # DATASET REPOSITORY 1
 ### LINK SOURCE
 #### Covid Chestxray Dataset
