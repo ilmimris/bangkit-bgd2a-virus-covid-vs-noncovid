@@ -111,10 +111,9 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
     Maintainers                   Dataset owner               Paul Mooney(Kaggle)
 
     Updates                       Expected update frequency   Not specified
-    
-    Last updated                  2018-03-25                  Date created
-                                  2018-03-22                  Current version
-                                                              Version 2
+                                  Last updated                2018-03-25                  
+                                  Date created                2018-03-22                  
+                                  Current version             Version 2
                                                              
                                                       
 ## DATASET REPOSITORY 3
