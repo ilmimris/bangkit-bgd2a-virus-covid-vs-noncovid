@@ -207,4 +207,10 @@ We developed two baseline methods for the community to benchmark with. The code 
 - We recommend you also extract images from publications or preprints. Make sure the original papers you crawled have different DOIs from those listed in COVID-CT-MetaInfo.xlsx.
 - In COVID-CT-MetaInfo.xlsx, images with the form of 2020.mm.dd.xxxx are crawled from bioRxiv or medRxiv. The DOIs for these preprints are 10.1101/2020.mm.dd.xxxx.
                                                         
-                                                             
+# RESULTS
+
+![results](results.png)
+
+The Accuracy and Validation accuracy reaches 97% and 99%. That means the models have success metrics.
+
+The graph titled "Training and Validation Accuracy" that could see, the distance of training data and validation is close so that overfitting does not occur.
