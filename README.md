@@ -1,6 +1,27 @@
-# FINAL PROJECT - BANGKIT | BDG2-A
+# ABOUT REPOSITORY
+This repo is part of web/apps for Final Projects BANGKIT ACADEMY 2020 lead by Google, Gojek, Tokopedia, and Traveloka | BDG2-A 
 
-# DATASET REPOSITORY 1
+
+For more information that can find in the GitHub link:
+https://github.com/ilmimris/bangkit-bgd2a-webapp
+
+
+# OBJECTIVES
+### PROBLEM FRAMING
+    How to predict images from CT-Scan and X-Ray Chest infected Coronavirus or not?
+### IDEAL OUTCOME
+    * A success metric is that images can predict what CT-Scan or X-Ray Chest infected Coronavirus or not.
+    * Success means the numbers of predicting upper 94% accuracy from that images. 
+    * Failure means the result of predicting no better than heuristics.
+### HEURISTIC
+    * Consider collected images from the dataset that categories Covid19 or not in the past. Assume that images will labialize that Covid19 image or not.       
+### FORMULATION
+    * Image recognition using Transfer Learning with model sequential with using Covid Chestxray Dataset & Chest X-Ray From Kaggle 
+    * Image recognition (alternative model) using Transfer Learning with model sequential with using Dataset Repository Mosmed COVID-19 CT Scans from Kaggle & COVID-CT from GitHub
+    
+# ABOUT DATASET
+
+## DATASET REPOSITORY 1
 ### LINK SOURCE
 #### Covid Chestxray Dataset
     https://github.com/ieee8023/covid-chestxray-dataset
@@ -58,7 +79,7 @@ Current stats of PA, AP, and AP Supine views. Labels 0=No or 1=Yes.
 
 ###### FOR INFORMATION ABOUT DATASET CONTINUE IN LINK SOURCE DATASET REPOSITORY 1
                                                           
-# DATASET REPOSITORY 2
+## DATASET REPOSITORY 2
 
 ### LINK SOURCE
 #### Chest X-Ray From Kaggle 
@@ -90,13 +111,12 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
     Maintainers                   Dataset owner               Paul Mooney(Kaggle)
 
     Updates                       Expected update frequency   Not specified
-    
-    Last updated                  2018-03-25                  Date created
-                                  2018-03-22                  Current version
-                                                              Version 2
+                                  Last updated                2018-03-25                  
+                                  Date created                2018-03-22                  
+                                  Current version             Version 2
                                                              
                                                       
-# DATASET REPOSITORY 3
+## DATASET REPOSITORY 3
 
 ### LINK SOURCE
 #### Mosmed COVID-19 CT Scans from Kaggle 
@@ -136,7 +156,7 @@ If you use this dataset in your research, please credit the authors
                                   Date created                2020-05-25
                                   Current version             Version 5                                                          
                                                              
-# DATASET REPOSITORY 4
+## DATASET REPOSITORY 4
 
 ### LINK SOURCE
 #### COVID-CT from GitHub
@@ -187,4 +207,10 @@ We developed two baseline methods for the community to benchmark with. The code 
 - We recommend you also extract images from publications or preprints. Make sure the original papers you crawled have different DOIs from those listed in COVID-CT-MetaInfo.xlsx.
 - In COVID-CT-MetaInfo.xlsx, images with the form of 2020.mm.dd.xxxx are crawled from bioRxiv or medRxiv. The DOIs for these preprints are 10.1101/2020.mm.dd.xxxx.
                                                         
-                                                             
+# RESULTS
+
+![results](results.png)
+
+The Accuracy and Validation accuracy reaches 97% and 99%. That means the models have success metrics.
+
+The graph titled "Training and Validation Accuracy" that could see, the distance of training data and validation is close so that overfitting does not occur.
